@@ -146,9 +146,5 @@ Potential applications include:
 
 This project demonstrates that deep learning combined with explainable AI can significantly reduce hyperspectral dimensionality while maintaining strong disease detection performance. By identifying a small, optimal subset of spectral bands, the work provides a practical and scalable pathway toward affordable plant disease monitoring systems, bringing hyperspectral intelligence from the laboratory to the field.
 
-
-Author:
-Shubham
-
 Guided by:
 Dr. Deepika Kukreja
